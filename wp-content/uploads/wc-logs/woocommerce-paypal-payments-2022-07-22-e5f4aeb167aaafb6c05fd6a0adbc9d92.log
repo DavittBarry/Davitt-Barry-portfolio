@@ -1,0 +1,66 @@
+2022-07-22T21:06:33+00:00 DEBUG POST https://api.paypal.com/v1/oauth2/token?grant_type=client_credentials
+Response Debug ID: b0b2a0fb2cd45
+Response: Array
+(
+    [code] => 401
+    [message] => Unauthorized
+)
+
+Response Body: {"error":"invalid_client","error_description":"Client Authentication failed"}
+
+2022-07-22T21:06:33+00:00 WARNING Could not create token.
+2022-07-22T21:06:33+00:00 DEBUG POST https://api.paypal.com/v1/oauth2/token?grant_type=client_credentials
+Response Debug ID: 9ec4c905f558
+Response: Array
+(
+    [code] => 401
+    [message] => Unauthorized
+)
+
+Response Body: {"error":"invalid_client","error_description":"Client Authentication failed"}
+
+2022-07-22T21:06:33+00:00 WARNING Could not create token.
+2022-07-22T21:06:34+00:00 DEBUG POST https://api.paypal.com/v1/oauth2/token?grant_type=client_credentials
+Response Debug ID: fd34feee01f9d
+Response: Array
+(
+    [code] => 401
+    [message] => Unauthorized
+)
+
+Response Body: {"error":"invalid_client","error_description":"Client Authentication failed"}
+
+2022-07-22T21:06:34+00:00 WARNING Could not create token.
+2022-07-22T21:06:35+00:00 DEBUG POST https://api.paypal.com/v1/oauth2/token?grant_type=client_credentials
+Response Debug ID: 9ddc210dd75fb
+Response: Array
+(
+    [code] => 401
+    [message] => Unauthorized
+)
+
+Response Body: {"error":"invalid_client","error_description":"Client Authentication failed"}
+
+2022-07-22T21:06:35+00:00 WARNING Could not create token.
+2022-07-22T21:06:35+00:00 DEBUG POST https://api.paypal.com/v1/oauth2/token?grant_type=client_credentials
+Response Debug ID: 9553eb590315e
+Response: Array
+(
+    [code] => 401
+    [message] => Unauthorized
+)
+
+Response Body: {"error":"invalid_client","error_description":"Client Authentication failed"}
+
+2022-07-22T21:06:35+00:00 WARNING Could not create token.
+2022-07-22T21:06:36+00:00 DEBUG POST https://api.paypal.com/v1/oauth2/token?grant_type=client_credentials
+Response Debug ID: d23f0519d024d
+Response: Array
+(
+    [code] => 401
+    [message] => Unauthorized
+)
+
+Response Body: {"error":"invalid_client","error_description":"Client Authentication failed"}
+
+2022-07-22T21:06:36+00:00 WARNING Could not create token.

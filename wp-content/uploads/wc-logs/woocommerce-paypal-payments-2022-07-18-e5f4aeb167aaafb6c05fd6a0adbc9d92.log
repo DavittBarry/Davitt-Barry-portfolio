@@ -1,0 +1,44 @@
+2022-07-18T06:35:54+00:00 DEBUG POST https://api.paypal.com/v1/oauth2/token?grant_type=client_credentials
+Response Debug ID: 1fff67c3ba921
+Response: Array
+(
+    [code] => 401
+    [message] => Unauthorized
+)
+
+Response Body: {"error":"invalid_client","error_description":"Client Authentication failed"}
+
+2022-07-18T06:35:54+00:00 WARNING Could not create token.
+2022-07-18T06:35:54+00:00 DEBUG POST https://api.paypal.com/v1/oauth2/token?grant_type=client_credentials
+Response Debug ID: 4f6eac3dbef5d
+Response: Array
+(
+    [code] => 401
+    [message] => Unauthorized
+)
+
+Response Body: {"error":"invalid_client","error_description":"Client Authentication failed"}
+
+2022-07-18T06:35:54+00:00 WARNING Could not create token.
+2022-07-18T06:35:55+00:00 DEBUG POST https://api.paypal.com/v1/oauth2/token?grant_type=client_credentials
+Response Debug ID: 340edf5037bd0
+Response: Array
+(
+    [code] => 401
+    [message] => Unauthorized
+)
+
+Response Body: {"error":"invalid_client","error_description":"Client Authentication failed"}
+
+2022-07-18T06:35:55+00:00 WARNING Could not create token.
+2022-07-18T06:35:55+00:00 DEBUG POST https://api.paypal.com/v1/oauth2/token?grant_type=client_credentials
+Response Debug ID: 49b70a62de1c0
+Response: Array
+(
+    [code] => 401
+    [message] => Unauthorized
+)
+
+Response Body: {"error":"invalid_client","error_description":"Client Authentication failed"}
+
+2022-07-18T06:35:55+00:00 WARNING Could not create token.
